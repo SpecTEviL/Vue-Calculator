@@ -30,7 +30,7 @@ export default {
     data() {
         return {
             previous: null,
-            current: '123',
+            current: '',
             operator: null,
             operatorClicked: false,
         }
